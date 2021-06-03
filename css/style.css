@@ -1,0 +1,26 @@
+.timeline-section{
+	height: 100vh;
+}
+
+@media(max-width: 767px) {
+	.about_txt{
+		text-align: center;
+	}
+	.about_img{
+		margin-top: 50px;
+		justify-content: center !important;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
